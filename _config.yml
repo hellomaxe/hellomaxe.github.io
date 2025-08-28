@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: https://www.linkedin.com/in/max-fennimore/
+linkedin: "max-fennimore"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
