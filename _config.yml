@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Max Fennimore
-description: subtitle | affiliations | motto
+description: Deep Learning | Data Science | Applied and Computational Mathematics @ BYU
 
 baseurl:  #name of GitHub repository
 url: hellomaxe.github.io #custom url to be used instead of GitHub repository
@@ -15,9 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: "max-fennimore"
 stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+github: "hellomaxe"
 quora: "#"
 instagram: "#"
 facebook: "#"
