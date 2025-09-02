@@ -27,6 +27,16 @@ _August 2025_
 
 ## Experience
 
+### Mathematical Biology Research Assistant  
+**BYU Mathematics Department** – Provo, Utah  
+_September 2023 – August 2025_  
+- Designed simulations and data visualizations using MATLAB and Python to represent biological processes  
+- Formulated ODE models to study nutrient trafficking proteins  
+- Collaborated with team members while managing independent research tasks  
+- Presented research *"Mathematical Modeling of the Regulation of Fur4"* at the BYU Student Research Conference (SRC 2025); awarded **Best Undergraduate Presentation** in session  
+
+
+
 ### Technical Intern  
 **Johns Hopkins Applied Physics Lab** – Laurel, Maryland  
 _May 2024 – August 2024_  
@@ -36,13 +46,7 @@ _May 2024 – August 2024_
 - Delivered presentations on technical findings to senior staff, effectively communicating complex ideas  
 - Developed and refined Python, MATLAB, and Unix Shell codebases  
 
-### Mathematical Biology Research Assistant  
-**BYU Mathematics Department** – Provo, Utah  
-_September 2023 – August 2025_  
-- Designed simulations and data visualizations using MATLAB and Python to represent biological processes  
-- Formulated ODE models to study nutrient trafficking proteins  
-- Collaborated with team members while managing independent research tasks  
-- Presented research *"Mathematical Modeling of the Regulation of Fur4"* at the BYU Student Research Conference (SRC 2025); awarded **Best Undergraduate Presentation** in session  
+
 
 ### CS Teaching Assistant  
 **BYU Computer Science Department** – Provo, Utah  
