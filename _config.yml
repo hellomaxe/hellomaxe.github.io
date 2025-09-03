@@ -14,12 +14,12 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 linkedin: "max-fennimore"
-stackoverflow: "#"
+# stackoverflow: "#"
 github: "hellomaxe"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
+# bluesky: "#"
 
 # Markdown
 highlighter: rouge
